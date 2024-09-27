@@ -18,27 +18,6 @@ knitr::opts_chunk$set(
 
 This is my first repository. 
 
-It contains several folders wit assets: 
-
-- Folder `images` contain bla bla bla  
-- Folder `plots` contain bla bla bla
-
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
-```
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub.
-
 ---
 title: "My Research Interest"
 author: "Mariana Buitrago, __buitragm@mcmaster.ca__"
@@ -91,3 +70,10 @@ y = ax+a
 $$
 ```
 
+## Git 
+
+This repository now is set up for git. 
+
+## Github 
+
+I also set up bla bla bla 
